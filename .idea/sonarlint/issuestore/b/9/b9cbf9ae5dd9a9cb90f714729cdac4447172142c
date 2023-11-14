@@ -1,0 +1,13 @@
+
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‚¦óŒýÿÿÿÿ8¹´½’¶1
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(õÀ¬Ì8º´½’¶1
+’
+java:S1319%"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³†’÷ýÿÿÿÿ8º´½’¶1
+’
+java:S1319?"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‘äÅÇÿÿÿÿÿ8º´½’¶1
+>
+java:S1643:"Use a StringBuilder instead.(¤Ïþçùÿÿÿÿ8º´½’¶1
+7
+java:S1220""Move this file to a named package.8º´½’¶1
