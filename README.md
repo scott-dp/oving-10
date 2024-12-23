@@ -1,1 +1,1 @@
-Øving 9 i emnet programmering 1 på NTNU
+Øving 10 i emnet programmering 1 på NTNU
